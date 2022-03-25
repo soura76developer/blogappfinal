@@ -1,0 +1,13 @@
+.bolly_design
+{
+  position: relative;
+  width: 600px;
+  height: 500px;
+  border-radius: 5px ;
+  margin-top: 200px;
+  margin-left: 350px;
+  border: none;
+  box-shadow: 8px 8px 8px 5px gray;
+ 
+
+}
